@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fidelity Trading Investments</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <img src="https://i.imgur.com/7Gt5WrO.png" class="logo">
+        <h1>Fidelity Trading Investments</h1>
+        <p>Trade • Earn • Withdraw fast and Secure Worldwide</p>
+    </header>
+
+    <section class="hero">
+        <h2>Global Investors Trust Us</h2>
+        <p>Secure trading, fast withdrawals, 24/7 global access.</p>
+    </section>
+
+    <section class="earnings">
+        <h3>Live Investor Earnings</h3>
+        <div id="popup"></div>
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
